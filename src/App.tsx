@@ -50,7 +50,7 @@ function App() {
               src="https://avatars.githubusercontent.com/u/69670820?v=4"
             />
             <img
-              src="src/assets/hover-image.png"
+              src="/src/assets/hover-image.png"
               alt="Hover Image"
               className="hover-image"
             ></img>
